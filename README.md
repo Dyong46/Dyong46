@@ -2,7 +2,7 @@
 <hr>
 <div style="float: left; ">
   <h3>👋 Hi, I’m D u o n g</h3>
-  <hr style="width: 500px;">
+  <hr style="width: 50px;">
   <p>👀 I’m interested in ...</p>
   <p>🌱 I’m currently learning ...</p>
   <p>💞️ I’m looking to collaborate on ...</p>
