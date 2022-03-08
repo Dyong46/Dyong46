@@ -1,9 +1,11 @@
 <h1>Hi there</h1>
-<p>👋 Hi, I’m D u o n g</p>
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<div>
+  <p>👋 Hi, I’m D u o n g</p>
+  <p>👀 I’m interested in ...</p>
+  <p>🌱 I’m currently learning ...</p>
+  <p>💞️ I’m looking to collaborate on ...</p>
+  <p>📫 How to reach me ...</p>
+</div>
 
 <!---
 Dyong46/Dyong46 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
