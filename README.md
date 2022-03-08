@@ -1,5 +1,5 @@
 <h1>Hi there</h1>
-<div>
+<div style="width="500px">
   <p>👋 Hi, I’m D u o n g</p>
   <p>👀 I’m interested in ...</p>
   <p>🌱 I’m currently learning ...</p>
