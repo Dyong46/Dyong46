@@ -8,3 +8,8 @@
 </a>
 </div>
 
+<br/>
+
+## I am Vũ Thái Dương 
+- Study at [FPT Polytechnic]
+- Love music
