@@ -13,4 +13,6 @@
 ## I am Vũ Thái Dương 
 - Study at [FPT Polytechnic]
 - Love ...
-[![](https://visitcount.itsvg.in/api?id=Duong&label=Profale%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Duong&label=Profale%20Views&icon=5&pretty=false" />
+</a>
