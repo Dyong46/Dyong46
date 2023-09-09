@@ -14,5 +14,5 @@
 - Study at [FPT Polytechnic]
 - Love ...
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Duong&label=Profale%20Views&icon=5&pretty=false" />
+  <img src="https://visitcount.itsvg.in/api?id=DuongVu&label=Profile%20Views&color=1&icon=2&pretty=true" />
 </a>
