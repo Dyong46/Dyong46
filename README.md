@@ -8,7 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I've been learing for 3 year of Java(Spring, JSP/Servlet), also I have a basic of Reactjs, Vue and Database
+I've been learing for 1 year of Java(Spring, JSP/Servlet) and NestJS, also I have a experience of Reactjs, NuxtJS
 
 * 🌍  I'm based in Vietnam
 * 🖥️  See my portfolio at [Facebook](http://www.facebook.com/thaiduongvu0406)
