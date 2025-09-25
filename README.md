@@ -42,6 +42,13 @@ src="https://img.shields.io/github/followers/Dyong46?logo=github&style=for-the-b
 
 <a href="https://github.com/Dyong46" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dyong46&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+### Contribution
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
 ### Support Me
 
 <ul style="list-style-type: none; margin: 0;">
