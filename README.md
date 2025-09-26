@@ -13,7 +13,6 @@ I've been learing for 1 year of Java(Spring, JSP/Servlet) and NestJS, also I hav
 * 🌍  I'm based in Vietnam
 * 🖥️  See my portfolio at [Facebook](http://www.facebook.com/thaiduongvu0406)
 * ✉️  You can contact me at [duongvt.dev@gmail.com](mailto:duongvt.dev@gmail.com)
-* 🚀  I'm currently working on [Plogg Vietnam](http://ploggvn.com)
 * 🧠  I'm learning Reactjs, Java
 * 🤝  I'm open to collaborating on Data, Marchine Learning
 
