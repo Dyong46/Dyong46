@@ -24,19 +24,19 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # tạo file snake trong thư mục dist
+      # tạo file snake trong thư mục assets
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            assets/github-contribution-grid-snake.svg
+            assets/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # commit trực tiếp file trong dist/
+      # commit trực tiếp file trong assets/
       - name: Commit and push files
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: update snake animation"
-          file_pattern: "dist/*.svg"
+          file_pattern: "assets/*.svg"
           branch: main
